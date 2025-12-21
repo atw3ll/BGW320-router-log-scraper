@@ -4,12 +4,12 @@ Created for the purpose of forwarding logs from BGW320-500 AT&T routers to raw t
 
 ### Setting up the environment
 ```
-$ git clone https://github.com/atw3ll/ISP-router-log-scraper.git
-$ cd ISP-router-log-scraper
-$ python3 -m venv .
-$ source bin/activate
-$ chmod +x atnt_forward.py
-$ ./atnt_forward.py
+git clone https://github.com/atw3ll/ISP-router-log-scraper.git
+cd ISP-router-log-scraper
+python3 -m venv .
+source bin/activate
+chmod +x atnt_forward.py
+./atnt_forward.py
 ```
 
 ### Help page
