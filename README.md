@@ -1,3 +1,6 @@
+# no longer devloped
+I don't have the router anymore, so I don't need to continue developing this project anymore.
+
 Created for the purpose of forwarding logs from BGW320-500 AT&T routers to raw tcp socket for log management.
 
 ![Alt text](image.png)
